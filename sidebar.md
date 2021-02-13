@@ -1,0 +1,8 @@
+- [Introduction](introduction)
+- [Training Scenarios](training)
+- [Graphics](graphics)
+- [Technical](technical)
+- **Links**
+- [![Discord](assets/img/discord.svg)Discord](https://discord.gg/pgrr)
+- [![Github](assets/img/github.svg)Github](https://github.com/PokemonGO-REMOTE-RAIDERS)
+- [![Twitter](assets/img/twitter.svg)@PGRRDiscord](https://twitter.com/PGRRDiscord)
