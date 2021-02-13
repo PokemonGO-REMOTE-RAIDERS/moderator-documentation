@@ -18,10 +18,12 @@
     window.$docsify = {
       name: 'PGRR Moderator Documentation',
       repo: 'https://github.com/PokemonGO-REMOTE-RAIDERS/moderator-documentation',
-      logo: '/assets/img/logo.png',
+      logo: 'assets/img/logo.png',
       auto2top: true,
       homepage: 'introduction.md',
-      loadSidebar: 'sidebar.md',
+      loadSidebar: true,
+      loadFooter: true,
+      pageNotFound: true,
       themeable: {
         readyTransition: true,
         responsiveTables: true,
@@ -39,5 +41,6 @@
   <script src="//cdn.jsdelivr.net/npm/docsify@4/lib/plugins/search.js"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify@4/lib/plugins/zoom-image.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/emoji.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/@alertbox/docsify-footer@1.0.0-0/dist/docsify-footer.min.js"></script>
 </body>
 </html>
