@@ -1,7 +1,9 @@
 - [Introduction](introduction)
 - [Training Scenarios](training)
+- [Moderator Guidelines](guidelines)
 - [Graphics](graphics)
 - [Technical](technical)
+- [Bot List](bots)
 - **Links**
 - [![Discord](assets/img/discord.svg)Discord](https://discord.gg/pgrr)
 - [![Github](assets/img/github.svg)Github](https://github.com/PokemonGO-REMOTE-RAIDERS)
