@@ -1,6 +1,7 @@
 - [Introduction](introduction)
 - [Training Scenarios](training)
 - [Moderating](moderating)
+- [Chat Formatting](chatformatting)
 - [Guidelines](guidelines)
 - [Graphics](graphics)
 - [Technical](technical)
