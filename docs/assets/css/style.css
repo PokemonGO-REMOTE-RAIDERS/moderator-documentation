@@ -10,6 +10,23 @@
 	color: rgb(64, 97, 207);
 }
 
+.text-underline {
+	text-decoration: underline;
+}
+
+.text-spoiler {
+	background: #1d1d1d;
+	color: #1d1d1d;
+	padding: .5rem;
+	transition: .3s ease-in-out;
+	border-radius: 3px;
+}
+
+.text-spoiler:hover {
+	background: #1d1d1d40;
+	color: white;
+}
+
 .sidebar-nav li img {
 	width: 20px;
 }
