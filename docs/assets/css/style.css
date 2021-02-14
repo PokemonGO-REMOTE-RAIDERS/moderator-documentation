@@ -2,6 +2,18 @@
 	color: rgb(5, 175, 5);
 }
 
+.text-orange {
+	color: rgb(255, 136, 0);
+}
+
+.text-blue {
+	color: rgb(64, 97, 207);
+}
+
 .sidebar-nav li img {
 	width: 20px;
+}
+
+.github-corner {
+	display: none;
 }

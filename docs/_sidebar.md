@@ -1,6 +1,7 @@
 - [Introduction](introduction)
 - [Training Scenarios](training)
-- [Moderator Guidelines](guidelines)
+- [Moderating](moderating)
+- [Guidelines](guidelines)
 - [Graphics](graphics)
 - [Technical](technical)
 - [Bot List](bots)
