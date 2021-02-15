@@ -1,10 +1,10 @@
 # ROLES & RESPONSIBILITIES
 
 ## Administrator [ <span class="text-lime">@Admin</span> ]
-### CEO’s of the server.
+?> CEO’s of the server.
 
-?> "Make sure the wheels don't come off this 'ish"
-
+**As an ADMINISTRATOR your duties are to:**
+- "Make sure the wheels don't come off this 'ish"
 - This role includes responsibilities of all other roles.
 
 ## Senior Moderator [ <span class="text-purple">@Senior Mod</span> ]
