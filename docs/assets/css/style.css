@@ -1,18 +1,43 @@
-.text-green {
-	color: rgb(5, 175, 5);
+.text-green, .text-manager {
+	color: #00B40B;
 }
 
-.text-orange {
-	color: rgb(255, 136, 0);
+.text-orange, .text-tech {
+	color: #E67E21;
 }
 
-.text-blue {
+.text-blue, .text-channel {
 	color: rgb(64, 97, 207);
+}
+
+.text-pink, .text-moderator {
+	color: #E91E63;
+}
+
+.text-mit, .text-red {
+	color: #E74C3C;
+}
+
+.text-purple,.text-senior-mod {
+	color: #BF94FA;
+}
+
+.text-lime, .text-admin {
+	color: #CEFF00;
+}
+
+.text-light-blue, .text-coach {
+	color: #93BFE6;
+}
+
+.text-mid-green, .text-wave-host {
+	color: #11806A;
 }
 
 .text-underline {
 	text-decoration: underline;
 }
+
 
 .text-spoiler {
 	background: #1d1d1d;
