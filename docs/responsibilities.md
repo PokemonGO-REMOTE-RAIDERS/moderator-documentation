@@ -5,7 +5,7 @@
 
 ?> "Make sure the wheels don't come off this 'ish"
 
-- THIS Includes responsibilities of all other roles.
+- This role includes responsibilities of all other roles.
 
 ## Senior Moderator [ <span class="text-purple">@Senior Mod</span> ]
 ?> District MGRs of the Server.
