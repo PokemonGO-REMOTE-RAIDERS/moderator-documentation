@@ -5,6 +5,22 @@ This section will walk you through adding a new raid boss to the channels log.
 
 ### Add Roles
 
+1. Click the down-arrow on the top left and click on "Server Settings"
+
+![Server Settings](assets/img/technical/add-boss-1.png ':size=250')
+
+2. Click on "Roles"
+
+![Server Settings](assets/img/technical/add-boss-2.png ':size=250')
+
+3. Click on the "+" right beside the "Roles" heading
+
+![Server Settings](assets/img/technical/add-boss-3.png ':size=250')
+
+4. A new window will pop up. Here, you can edit the role title by highlighting "new role".
+
+![Server Settings](assets/img/technical/add-boss-4.png)
+
 ### Add Channels
 
 ### Limit to Specific Boss
