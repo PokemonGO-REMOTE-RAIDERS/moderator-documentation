@@ -19,12 +19,12 @@
 
 **As a MOD your duties are to:**
 
--  Protect the integrity of the server and help our members.
+- Protect the integrity of the server and help our members.
 - Facilitate and guide members in <span class="text-blue">#community_chat</span> and ensure that our members do not break any of our <span class="text-blue">#➤➤server_rules</span>
 - Check-in daily in the <span class="text-blue">#staff_chat</span> and #updates_4_staff channels.
 - Contribute at least 1-2hrs daily.
 - Assist as needed in the <span class="text-blue">#new_member_help</span> and <span class="text-blue">#customer_service</span> channels, answering any questions that are posted. 
-- Be the first point of contact for the <span class="text-green">@canIspeak2manager</span> tag, if one of the [Moderators in Training] <span class="text-red">@M-I-T</span> do not get to it first.
+- Be the first point of contact for the <span class="text-green">@canIspeak2manager</span> tag.
 - Close and Open raid/wave rooms.
 - Not be away from the server for more than 24 hours consecutively without letting an Admin know.
 - Assist in the <span class="text-blue">#training-scenarios</span> training channel as needed.
