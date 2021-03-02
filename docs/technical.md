@@ -23,8 +23,56 @@ This section will walk you through adding a new raid boss to the channels log.
 
 ### Add Channels
 
+1. Click on the "+" icon next to the category name
+
+![Create Channel](assets/img/technical/create-channel-1.PNG ':size=250')
+
+2. This will prompt you to create a new text channel. There are three options: text, voice, and announcement. For the most part, we will be creating text channels. You can also toggle it as a private channel so you can set up whatever you want to set up before it goes live (recommended!).
+For now, just set the name under "Channel Name".
+
+![Create Channel](assets/img/technical/create-channel-2.PNG ':size=250')
+
+3. Once you've decided on a name, go ahead and toggle the button next to "Private Channel" (the button will turn green once toggled on). Click "Next".
+
+![Create Channel](assets/img/technical/create-channel-3.PNG ':size=250')
+
+4. Set up some permissions of which roles you want seeing this
+
+![Create Channel](assets/img/technical/create-channel-4.PNG ':size=250')
+
 ### Limit to Specific Boss
 
+1. Before you set your raid restriction(s), you need to set up the channel as a remote raid lobby. To do this, go to the #pokenav channel and toggle it as a *remote raid lobby*.
+
+**NOTE: Make sure PokeNav can read the type in the channel**
+
+![Limit Boss](assets/img/technical/limit-1.PNG ':size=250')
+
+To break this down, the code is **.toggle remote-raid-lobby #channel**
+
+2. Now you create your raid boss restriction. You can also further limit it according to tier:
+
+![Limit Boss](assets/img/technical/limit-2.PNG ':size=250')
+
+The code for this is **.create raid-boss-restriction #channel tier**
+
+Or just by boss:
+
+![Limit Boss](assets/img/technical/limit-3.PNG ':size=250')
+
+The code for this is **.create raid-boss-restriction #channel boss**
+
+### Create a Notify-Rule 
+
+1. Go to #pokenav and link the boss role to the bot notification system (this is used whenever a raid is created via PokeNav)
+
+![Notify Rule](assets/img/technical/rule-1.PNG ':size=250')
+
+2. Create the notification rule
+
+![Notify Rule](assets/img/technical/rule-2.PNG ':size=250')
+
+The code for this is **.create notify-rule @role "boss: pokemon"**.
 ---
 
 ## Pokénav Down Protocol
