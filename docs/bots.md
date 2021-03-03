@@ -15,3 +15,4 @@ The following is an alphabetical list of all of the bots we currently use and li
 - [@ServerStats](https://https://top.gg/bot/458276816071950337)
 - [@Silph Road](https://https://thesilphroad.com/community-leadership)
 - [@Translator](https://https://top.gg/bot/360081866461806595)
+- [@ModMail](https://https://modmail.xyz/)
