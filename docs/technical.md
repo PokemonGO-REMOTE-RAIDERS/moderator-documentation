@@ -5,15 +5,15 @@ This section will walk you through adding a new raid boss to the channels log.
 
 ### Add Roles
 
-1. Click the down-arrow on the top left and click on "Server Settings"
+1. Click the down-arrow on the top left and click on "Server Settings".
 
 ![Server Settings](assets/img/technical/add-boss-1.png ':size=250')
 
-2. Click on "Roles"
+2. Click on "Roles".
 
 ![Server Settings](assets/img/technical/add-boss-2.png ':size=250')
 
-3. Click on the "+" right beside the "Roles" heading
+3. Click on the "+" right beside the "Roles" heading.
 
 ![Server Settings](assets/img/technical/add-boss-3.png ':size=250')
 
@@ -44,13 +44,13 @@ For now, just set the name under "Channel Name".
 
 1. Before you set your raid restriction(s), you need to set up the channel as a remote raid lobby. To do this, go to the #pokenav channel and toggle it as a *remote raid lobby*.
 
-**NOTE: Make sure PokeNav can read the type in the channel**
+**NOTE: Make sure PokeNav can read and type in the channel**
 
 ![Limit Boss](assets/img/technical/limit-1.PNG ':size=250')
 
 To break this down, the code is **.toggle remote-raid-lobby #channel**
 
-2. Now you create your raid boss restriction. You can also further limit it according to tier:
+2. Now, you create your raid boss restriction. You can also further limit it according to tier:
 
 ![Limit Boss](assets/img/technical/limit-2.PNG ':size=250')
 
@@ -68,7 +68,7 @@ The code for this is **.create raid-boss-restriction #channel <boss>**
 
 ![Notify Rule](assets/img/technical/rule-1.PNG ':size=250')
 
-2. Create the notification rule
+2. Create the notification rule.
 
 ![Notify Rule](assets/img/technical/rule-2.PNG ':size=250')
 
