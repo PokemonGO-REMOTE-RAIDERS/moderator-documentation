@@ -5,10 +5,11 @@
 ### Basics
 **Host**
 - `.gtc` will post code
-- `.boss` (name) updates boss info
+- `.b name` updates boss info
 - `.mm #` restricts lobby if less than 5
 - `.m` shows team breakdown
 - `.go` will tag to go in game for invites
+- `.bo` tells users to back out
 - `.tr` time remaining
 - `.extend 10` extends close time of raid
 - `.end` closes raid 

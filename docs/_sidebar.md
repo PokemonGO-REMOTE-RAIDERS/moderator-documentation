@@ -1,4 +1,5 @@
 - [Introduction](introduction)
+- [Responsibilities](responsibilities)
 - [Training Scenarios](training)
 - [Moderating](moderating)
 - [Chat Formatting](chatformatting)
