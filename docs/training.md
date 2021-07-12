@@ -2,7 +2,7 @@
 
 ## Scenario 1: Vulgarity
 
-!> You are in a thread and notice a vulgar or deragatory name.
+!> You are in a thread and notice a vulgar or derogatory name.
 
 ***What do you do?***
 
