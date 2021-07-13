@@ -76,6 +76,10 @@ The code for this is **.create notify-rule @role "boss: pokemon"**
 
 ### Uploading Emojis 
 
+###### There are two options to do this:
+
+**Going on Google Images**
+
 1. Go to Google and type (insert boss name here) transparent png and select "Images".
 
 ![Emojis](assets/img/technical/froakie.png ':size=250')
@@ -85,6 +89,23 @@ The code for this is **.create notify-rule @role "boss: pokemon"**
 ![Emojis](assets/img/technical/froakie-transparent.png ':size=250')
 
 *Make sure it has a background like the one above for the best results*
+
+**Going on [PokemonDB](https://pokemondb.net/)**
+
+1. Go to [PokemonDB](https://pokemondb.net/).
+
+2. Search for the Pokemon that you're looking for.
+
+![Emojis](assets/img/technical/choose-mon.png ':size=250')
+
+3. Select "sprites" to get the sprites.
+
+![Emojis](assets/img/technical/select.png ':size=250')
+
+4. Choose the biggest you can find from the list and save it.
+
+![Emojis](assets/img/technical/sprites.png ':size=250')
+
 
 3. Make sure the image is really transparent (some PNGs that appear transparent have that ugly background, so there are a few ways to fix them)
 - Find a new PNG if you're lazy
