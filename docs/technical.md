@@ -89,7 +89,7 @@ The code for this is **.create notify-rule @role "boss: pokemon"**
 - Go to [LunaPic](https://www12.lunapic.com/editor/?action=transparent)
 - Remove the background on Photoshop
 
-4. Make sure the image is under 256 kb. If it's too big, use [TinyPng](https://tinypng.com/)
+4. Make sure the image is under 256 kb. If it's too big, use [TinyPng](https://tinypng.com/).
 
 5. If you made it this far, congrats! You've done the painful part :D
 ---
