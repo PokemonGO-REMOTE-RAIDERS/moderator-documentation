@@ -84,7 +84,7 @@ The code for this is **.create notify-rule @role "boss: pokemon"**
 
 ![Emojis](assets/img/technical/froakie-transparent.png ':size=250')
 
-*Make sure it has a background like the one below for the best results*
+*Make sure it has a background like the one above for the best results*
 
 3. Make sure the image is really transparent (some PNGs that appear transparent have that ugly background, so there are a few ways to fix them)
 - Find a new PNG if you're lazy
