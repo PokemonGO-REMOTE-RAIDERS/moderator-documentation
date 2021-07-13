@@ -76,7 +76,7 @@ The code for this is **.create notify-rule @role "boss: pokemon"**
 
 ### Uploading Emojis 
 
-###### There are two options to do this:
+***There are two options to do this:***
 
 **Going on Google Images**
 
@@ -88,7 +88,16 @@ The code for this is **.create notify-rule @role "boss: pokemon"**
 
 ![Emojis](assets/img/technical/froakie-transparent.png ':size=250')
 
-*Make sure it has a background like the one above for the best results*
+*^Make sure it has a background like the one above for the best results^*
+
+3. Make sure the image is really transparent (some PNGs that appear transparent have that ugly background, so there are a few ways to fix them)
+- Find a new PNG if you're lazy
+- Go to [LunaPic](https://www12.lunapic.com/editor/?action=transparent)
+- Remove the background on Photoshop
+
+4. Make sure the image is under 256 kb. If it's too big, use [TinyPng](https://tinypng.com/).
+
+5. If you made it this far, congrats! You've done the painful part :D
 
 **Going on [PokemonDB](https://pokemondb.net/)**
 
@@ -106,15 +115,6 @@ The code for this is **.create notify-rule @role "boss: pokemon"**
 
 ![Emojis](assets/img/technical/sprites.png ':size=250')
 
-
-3. Make sure the image is really transparent (some PNGs that appear transparent have that ugly background, so there are a few ways to fix them)
-- Find a new PNG if you're lazy
-- Go to [LunaPic](https://www12.lunapic.com/editor/?action=transparent)
-- Remove the background on Photoshop
-
-4. Make sure the image is under 256 kb. If it's too big, use [TinyPng](https://tinypng.com/).
-
-5. If you made it this far, congrats! You've done the painful part :D
 ---
 
 ## Pokénav Down Protocol
