@@ -74,6 +74,24 @@ The code for this is **.create raid-boss-restriction #channel <boss>**
 
 The code for this is **.create notify-rule @role "boss: pokemon"**
 
+### Uploading Emojis 
+
+1. Go to Google and type (insert boss name here) transparent png and select "Images".
+
+![Notify Rule](assets/img/technical/froakie.png ':size=250')
+
+2. Download the first PNG you see and hope for the best.
+*Make sure it has a background like the one below for the best results*
+![Notify Rule](assets/img/technical/froakie-transparent.png ':size=250')
+
+3. Make sure the image is really transparent (some PNGs that appear transparent have that ugly background, so there are a few ways to fix them)
+- Find a new PNG if you're lazy
+- Go to [Luna Pic](https://www12.lunapic.com/editor/?action=transparent)
+- Remove the background on Photoshop
+
+4. Make sure the image is under 256 kb. If it's too big, use [TinyPng](https://tinypng.com/)
+
+5. If you made it this far, congrats! You've done the painful part :D
 ---
 
 ## Pokénav Down Protocol
