@@ -86,7 +86,7 @@ The code for this is **.create notify-rule @role "boss: pokemon"**
 
 3. Make sure the image is really transparent (some PNGs that appear transparent have that ugly background, so there are a few ways to fix them)
 - Find a new PNG if you're lazy
-- Go to [Luna Pic](https://www12.lunapic.com/editor/?action=transparent)
+- Go to [LunaPic](https://www12.lunapic.com/editor/?action=transparent)
 - Remove the background on Photoshop
 
 4. Make sure the image is under 256 kb. If it's too big, use [TinyPng](https://tinypng.com/)
